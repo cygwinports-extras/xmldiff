@@ -1,0 +1,5 @@
+inherit distutils
+
+
+HOMEPAGE="http://www.logilab.org/859"
+SRC_URI="http://ftp.logilab.org/pub/xmldiff/${P}.tar.gz"
