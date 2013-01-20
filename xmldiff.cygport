@@ -1,0 +1,11 @@
+inherit distutils
+
+NAME="xmldiff"
+VERSION=0.6.10
+RELEASE=2
+CATEGORY="Text"
+SUMMARY="Shows differences between XML/HTML files"
+DESCRIPTION="A Python tool that figures out the differences between two similar
+XML files."
+HOMEPAGE="http://www.logilab.org/project/xmldiff"
+SRC_URI="http://ftp.logilab.org/pub/xmldiff/${P}.tar.gz"

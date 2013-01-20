@@ -1,5 +1,0 @@
-category: Text
-requires: python
-sdesc: "Shows differences between XML/HTML files"
-ldesc: "A Python tool that figures out the differences between two 
-similar XML files."
